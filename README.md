@@ -1,3 +1,4 @@
+its an awsome project...
 # Leaflet.HtmlLegend
 
 A simple Leaflet plugin for creating legends with HTML.
